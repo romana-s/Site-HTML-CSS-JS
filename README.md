@@ -1,2 +1,3 @@
 # Site-HTML-CSS-JS
-Site para estudo
+Site desenvolvido com HTML, CSS e JS para estudo.
+
